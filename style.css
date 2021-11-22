@@ -1,0 +1,24 @@
+.intro{
+    background-color: beige;
+    display:flex;justify-content:space-between;
+}
+
+*{
+border:dotted
+}
+.retro{
+    background-color: cadetblue;
+}
+.Game{
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: space-evenly;
+}
+.icons{
+    background-color: orchid;
+}
+a{
+    margin-top:20 ;
+}
+
+
